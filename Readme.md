@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anna Shablinskaya](https://up.htmlacademy.ru/javascript/21/user/1318653).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Косович](https://htmlacademy.ru/profile/id703025).
 
 ---
 
